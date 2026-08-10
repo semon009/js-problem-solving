@@ -5,6 +5,8 @@ Take a look at the code line below — the variable declaration looks outdated! 
 
 ```javascript
 var name = "Catherine";
+```
+
 ## Analysis & Best Practices
 
 * **`var` (Outdated)**: Uses function-scope or global-scope, allows variable hoisting and re-declaration, which can lead to bugs in modern applications.
