@@ -43,5 +43,3 @@ console.log(condition);
 
 ---
 <FollowUp label="Want to learn how the ternary operator works as a shorthand for if-else in JavaScript?" query="Explain the ternary operator syntax in JavaScript with examples comparing it to standard if-else statements."/>
-
-```
